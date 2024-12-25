@@ -29,3 +29,9 @@ crontab -l
 
 ![image](https://github.com/user-attachments/assets/31f9ed30-a716-42e2-81da-13a7094bf196)
 
+### 7)Запустим файл
+
+![image](https://github.com/user-attachments/assets/c7ef4b8f-210c-463c-ae3d-8988872d6aae)
+
+
+Программа работает исправно 
